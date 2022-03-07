@@ -1,0 +1,62 @@
+    local args = {
+        [1] = "Super Idol de xiaorong",
+        [2] = "All"
+    }
+    
+    game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+    wait(1)
+    local args = {
+        [1] = "Dou mei ni de tian",
+        [2] = "All"
+    }
+    
+    game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+    wait(1)
+    local args = {
+        [1] = "Ba yue zhengwu de yangguang",
+        [2] = "All"
+    }
+    
+    game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+    wait(1)
+    local args = {
+        [1] = "Dou mei ni yaoyan",
+        [2] = "All"
+    }
+    
+    game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+    wait(1)
+    local args = {
+        [1] = "Re'ai 105 °C de ni",
+        [2] = "All"
+    }
+    
+    game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+    wait(1)
+    local args = {
+        [1] = "Di di qingchun de zhengliushui",
+        [2] = "All"
+    }
+    
+    game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+    wait(1)
+    local args = {
+        [1] = "Zai zhe duyiwu'er",
+        [2] = "All"
+    }
+    
+    game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+    wait(1)
+    local args = {
+        [1] = "Shuyu wo de shidair",
+        [2] = "All"
+    }
+    
+    game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
